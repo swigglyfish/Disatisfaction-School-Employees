@@ -1,0 +1,652 @@
+Age,Dissatisfaction,Employment Status,Gender,Institute,Institute Tenure,Position,Reasons for Leaving
+36-40,False,Full-time,Female,DETE,7-10,Teacher / TA,Career Move to Private Sector
+41-45,True,Full-time,Female,DETE,11-20,Officer,"Career Move to Private Sector, Dissatisfaction, Maternal/Family"
+31-35,False,Full-time,Female,DETE,3-4,Teacher / TA,Career Move to Private Sector
+46-50,True,Part-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+31-35,False,Full-time,Male,DETE,3-4,Teacher / TA,"Maternal/Family, Relocation"
+36-40,False,Full-time,Female,DETE,11-20,Teacher / TA,Maternal/Family
+31-35,True,Full-time,Male,DETE,5-6,Teacher / TA,Dissatisfaction
+56+,True,Part-time,Male,DETE,,Teacher / TA,"Dissatisfaction, Relocation"
+56+,False,Full-time,Male,DETE,21+,Teacher / TA,Not Specified
+51-55,False,Part-time,Female,DETE,21+,Operations,Interpersonal Conflict
+46-50,True,Part-time,Female,DETE,11-20,Administration,Dissatisfaction
+56+,True,Full-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Maternal/Family"
+41-45,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+21-25,False,Full-time,Female,DETE,7-10,Administration,Career Move to Public Sector
+36-40,True,Full-time,Male,DETE,7-10,Teacher / TA,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+56+,True,Part-time,Male,DETE,5-6,Operations,Dissatisfaction
+21-25,False,Temp (Full),Female,DETE,1-2,Teacher / TA,Not Specified
+21-25,True,Full-time,Female,DETE,,Teacher / TA,Dissatisfaction
+56+,False,Full-time,Male,DETE,21+,Teacher / TA,Career Move to Public Sector
+51-55,True,Full-time,Female,DETE,21+,Administration,"Dissatisfaction, Interpersonal Conflict"
+41-45,False,Part-time,Female,DETE,1-2,Operations,Not Specified
+51-55,True,Full-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+21-25,False,Full-time,Male,DETE,3-4,Operations,Relocation
+21-25,False,Full-time,Male,DETE,3-4,Operations,Relocation
+56+,False,Full-time,Female,DETE,11-20,Operations,Not Specified
+26-30,False,Part-time,Female,DETE,3-4,Teacher / TA,Not Specified
+46-50,False,Full-time,Male,DETE,7-10,Teacher / TA,Career Move to Private Sector
+31-35,False,Temp (Full),Female,DETE,1-2,Officer,Relocation
+36-40,True,Full-time,Female,DETE,5-6,Administration,Dissatisfaction
+36-40,False,Part-time,Female,DETE,1-2,Teacher / TA,Relocation
+26-30,False,Full-time,Female,DETE,5-6,Teacher / TA,"Relocation, Study/Travel"
+41-45,False,Part-time,Female,DETE,21+,Teacher / TA,Career Move to Public Sector
+41-45,True,Full-time,Female,DETE,7-10,Teacher / TA,Dissatisfaction
+31-35,True,Full-time,Male,DETE,1-2,Teacher / TA,"Dissatisfaction, Maternal/Family"
+36-40,True,Part-time,Female,DETE,5-6,Teacher / TA,Dissatisfaction
+51-55,False,Part-time,Female,DETE,7-10,Teacher / TA,Not Specified
+51-55,True,Part-time,Female,DETE,7-10,,Dissatisfaction
+46-50,True,Temp (Full),Female,DETE,,Teacher / TA,Dissatisfaction
+31-35,False,Part-time,Female,DETE,3-4,Officer,Not Specified
+26-30,False,Full-time,Female,DETE,7-10,Teacher / TA,Career Move to Public Sector
+56+,True,Part-time,Female,DETE,5-6,Operations,Dissatisfaction
+41-45,True,Full-time,Female,DETE,11-20,Officer,Dissatisfaction
+56+,True,Full-time,Male,DETE,21+,,"Dissatisfaction, Interpersonal Conflict"
+46-50,True,Full-time,Female,DETE,1-2,Teacher / TA,"Career Move to Public Sector, Dissatisfaction"
+36-40,True,Part-time,Female,DETE,0-1,Administration,"Career Move to Private Sector, Dissatisfaction"
+51-55,True,Full-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+51-55,True,Temp (Part),Male,DETE,0-1,Administration,"Career Move to Public Sector, Dissatisfaction"
+41-45,True,Part-time,Female,DETE,5-6,Operations,Dissatisfaction
+56+,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+41-45,False,Part-time,Female,DETE,7-10,Teacher / TA,Career Move to Private Sector
+51-55,False,Part-time,Female,DETE,,Teacher / TA,Career Move to Private Sector
+56+,False,Part-time,Male,DETE,5-6,Operations,Ill Health
+26-30,True,Full-time,Male,DETE,7-10,Administration,"Career Move to Private Sector, Dissatisfaction"
+21-25,False,Temp (Full),Male,DETE,1-2,Administration,Career Move to Public Sector
+41-45,True,Part-time,Female,DETE,7-10,Operations,Dissatisfaction
+41-45,True,Full-time,Female,DETE,7-10,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+36-40,True,Full-time,Female,DETE,0-1,Operations,Dissatisfaction
+56+,True,Part-time,Female,DETE,11-20,Operations,Dissatisfaction
+31-35,True,Part-time,Female,DETE,7-10,Operations,"Dissatisfaction, Maternal/Family"
+41-45,True,Full-time,Female,DETE,5-6,Administration,Dissatisfaction
+46-50,False,Full-time,Female,DETE,11-20,Teacher / TA,"Ill Health, Interpersonal Conflict"
+46-50,False,Full-time,Female,DETE,21+,Officer,Career Move to Public Sector
+46-50,False,Part-time,Female,DETE,,Teacher / TA,Not Specified
+31-35,True,Full-time,Female,DETE,7-10,Administration,Dissatisfaction
+21-25,False,Part-time,Female,DETE,3-4,Administration,Career Move to Private Sector
+36-40,True,Part-time,Female,DETE,5-6,Teacher / TA,Dissatisfaction
+51-55,False,Part-time,Female,DETE,5-6,Officer,Relocation
+56+,True,Part-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+,False,Part-time,Female,DETE,11-20,Administration,Not Specified
+51-55,True,Full-time,,DETE,11-20,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+36-40,True,Full-time,Female,DETE,3-4,Teacher / TA,Dissatisfaction
+56+,True,Part-time,Male,DETE,11-20,Operations,"Dissatisfaction, Maternal/Family, Relocation"
+21-25,False,Full-time,Female,DETE,3-4,Officer,"Relocation, Study/Travel"
+26-30,False,Full-time,Female,DETE,5-6,Other,"Relocation, Study/Travel"
+31-35,False,Temp (Part),Male,DETE,1-2,Teacher / TA,Relocation
+26-30,True,Full-time,Male,DETE,7-10,Teacher / TA,"Dissatisfaction, Study/Travel"
+31-35,True,Part-time,Female,DETE,11-20,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Maternal/Family"
+46-50,True,Part-time,Female,DETE,3-4,Operations,"Career Move to Private Sector, Dissatisfaction"
+46-50,True,Part-time,Female,DETE,7-10,Teacher / TA,Dissatisfaction
+21-25,False,Temp (Full),Female,DETE,0-1,Administration,Not Specified
+26-30,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+41-45,True,Full-time,Male,DETE,3-4,Officer,Dissatisfaction
+36-40,True,Full-time,Male,DETE,1-2,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Relocation"
+21-25,False,Full-time,Female,DETE,3-4,Teacher / TA,Relocation
+18-20,False,Part-time,Female,DETE,1-2,Administration,Maternal/Family
+36-40,False,Part-time,Female,DETE,1-2,Operations,Maternal/Family
+31-35,False,Full-time,Female,DETE,1-2,Teacher / TA,"Maternal/Family, Relocation, Study/Travel"
+26-30,False,Full-time,Female,DETE,1-2,Teacher / TA,Not Specified
+56+,False,Part-time,Female,DETE,21+,Teacher / TA,Not Specified
+36-40,False,Temp (Full),Female,DETE,1-2,Administration,Career Move to Private Sector
+56+,True,Part-time,Female,DETE,11-20,Operations,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+26-30,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+31-35,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+,False,Full-time,Female,DETE,0-1,Operations,Relocation
+36-40,False,Part-time,Female,DETE,0-1,Teacher / TA,Career Move to Private Sector
+26-30,True,Full-time,Female,DETE,,Administration,"Dissatisfaction, Study/Travel"
+56+,False,Part-time,Female,DETE,,Teacher / TA,Career Move to Private Sector
+56+,False,Part-time,,DETE,,Officer,"Maternal/Family, Relocation, Study/Travel"
+51-55,True,Full-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Study/Travel"
+41-45,False,Part-time,Male,DETE,5-6,Officer,Career Move to Private Sector
+51-55,True,Part-time,Female,DETE,11-20,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Study/Travel"
+46-50,False,Part-time,Female,DETE,,Administration,Career Move to Private Sector
+51-55,True,Part-time,Male,DETE,7-10,Operations,Dissatisfaction
+46-50,False,Full-time,Male,DETE,3-4,Teacher / TA,Relocation
+36-40,True,Full-time,Male,DETE,11-20,Teacher / TA,Dissatisfaction
+36-40,True,Part-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Maternal/Family"
+36-40,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Private Sector
+41-45,False,Full-time,Male,DETE,21+,Teacher / TA,"Career Move to Private Sector, Interpersonal Conflict"
+46-50,True,Part-time,Female,DETE,0-1,Administration,Dissatisfaction
+26-30,True,Part-time,Female,DETE,1-2,Operations,Dissatisfaction
+26-30,True,Full-time,Male,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+21-25,False,Part-time,Female,DETE,1-2,Teacher / TA,Study/Travel
+46-50,False,Part-time,Female,DETE,11-20,Teacher / TA,Not Specified
+36-40,False,Full-time,Female,DETE,3-4,Operations,Not Specified
+21-25,True,Full-time,Female,DETE,1-2,Operations,"Dissatisfaction, Interpersonal Conflict, Relocation"
+51-55,True,Temp (Full),Female,DETE,0-1,Administration,Dissatisfaction
+26-30,True,Full-time,Male,DETE,7-10,Teacher / TA,"Dissatisfaction, Maternal/Family"
+41-45,False,Part-time,Female,DETE,,Administration,Not Specified
+41-45,True,Full-time,Female,DETE,21+,Teacher / TA,Dissatisfaction
+36-40,False,Full-time,Female,DETE,3-4,Administration,Career Move to Private Sector
+56+,True,Part-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+26-30,True,Full-time,Male,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Relocation"
+56+,False,Part-time,Female,DETE,21+,Teacher / TA,Not Specified
+31-35,False,Part-time,Female,DETE,7-10,Teacher / TA,Study/Travel
+26-30,False,Full-time,Male,DETE,,Teacher / TA,Not Specified
+21-25,True,Full-time,Male,DETE,3-4,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+21-25,True,Full-time,Female,DETE,1-2,Teacher / TA,"Dissatisfaction, Relocation, Study/Travel"
+36-40,False,Full-time,Female,DETE,0-1,Teacher / TA,Study/Travel
+41-45,False,Full-time,Female,DETE,11-20,Teacher / TA,Maternal/Family
+46-50,True,Full-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+46-50,False,Part-time,Female,DETE,5-6,Teacher / TA,Maternal/Family
+46-50,True,Part-time,Female,DETE,21+,Teacher / TA,Dissatisfaction
+26-30,False,Part-time,Female,DETE,,Teacher / TA,Career Move to Private Sector
+26-30,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Full-time,Female,DETE,11-20,Teacher / TA,Relocation
+46-50,False,Full-time,Female,DETE,5-6,Teacher / TA,Career Move to Public Sector
+46-50,True,Full-time,Female,DETE,21+,Teacher / TA,"Career Move to Public Sector, Dissatisfaction"
+46-50,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Private Sector
+31-35,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Interpersonal Conflict"
+41-45,True,Part-time,Female,DETE,11-20,Officer,"Dissatisfaction, Maternal/Family, Relocation"
+56+,True,,Male,DETE,,Operations,Dissatisfaction
+,False,,,DETE,,Teacher / TA,"Interpersonal Conflict, Maternal/Family"
+56+,True,Part-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Ill Health"
+56+,False,Temp (Full),Male,DETE,,Officer,Relocation
+26-30,True,Full-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Interpersonal Conflict, Maternal/Family, Relocation"
+36-40,False,Part-time,Female,DETE,,Teacher / TA,Maternal/Family
+26-30,False,Full-time,Female,DETE,5-6,Teacher / TA,Not Specified
+41-45,False,Full-time,Female,DETE,5-6,Operations,Ill Health
+41-45,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Public Sector
+26-30,False,Full-time,Male,DETE,1-2,Teacher / TA,"Career Move to Public Sector, Interpersonal Conflict"
+56+,False,Full-time,Female,DETE,21+,Teacher / TA,Ill Health
+41-45,True,Part-time,Female,DETE,5-6,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+41-45,True,Temp (Full),Female,DETE,1-2,Teacher / TA,Dissatisfaction
+31-35,False,Full-time,Male,DETE,5-6,Administration,Relocation
+26-30,True,Full-time,Female,DETE,5-6,Officer,Dissatisfaction
+46-50,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+26-30,True,Full-time,Female,DETE,7-10,Administration,"Career Move to Private Sector, Dissatisfaction, Relocation"
+31-35,True,Full-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Ill Health, Study/Travel"
+21-25,False,Full-time,Female,DETE,,Teacher / TA,"Career Move to Public Sector, Relocation"
+56+,True,Full-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Ill Health"
+31-35,False,Part-time,Female,DETE,3-4,Teacher / TA,Not Specified
+36-40,True,Full-time,Male,DETE,,Teacher / TA,Dissatisfaction
+21-25,False,Part-time,Female,DETE,3-4,Teacher / TA,Relocation
+41-45,False,Full-time,Female,DETE,21+,Administration,Not Specified
+56+,True,Full-time,Female,DETE,0-1,Administration,"Dissatisfaction, Relocation"
+21-25,True,Full-time,Female,DETE,0-1,Teacher / TA,Dissatisfaction
+36-40,False,Temp (Part),Female,DETE,1-2,Administration,Career Move to Private Sector
+51-55,False,Part-time,Female,DETE,3-4,Teacher / TA,Career Move to Private Sector
+36-40,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+41-45,True,Part-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Maternal/Family"
+46-50,True,Full-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Ill Health"
+56+,True,Part-time,Female,DETE,,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+51-55,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+51-55,True,Casual,Male,DETE,5-6,Teacher / TA,Dissatisfaction
+46-50,False,Full-time,Male,DETE,7-10,Operations,Not Specified
+51-55,False,Part-time,Female,DETE,11-20,Teacher / TA,Not Specified
+26-30,True,Part-time,Female,DETE,0-1,Teacher / TA,"Dissatisfaction, Maternal/Family"
+41-45,True,Part-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+46-50,False,Part-time,Female,DETE,7-10,Teacher / TA,Relocation
+41-45,False,Part-time,Female,DETE,11-20,Teacher / TA,Maternal/Family
+46-50,False,,Female,DETE,,Operations,Not Specified
+56+,True,Part-time,,DETE,21+,Teacher / TA,Dissatisfaction
+56+,True,Part-time,Female,DETE,21+,Operations,"Career Move to Private Sector, Dissatisfaction"
+46-50,False,Part-time,Female,DETE,1-2,Operations,Career Move to Private Sector
+36-40,True,Full-time,Male,DETE,3-4,Teacher / TA,"Dissatisfaction, Relocation"
+26-30,False,Temp (Part),Female,DETE,0-1,Administration,"Maternal/Family, Relocation"
+31-35,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Private Sector
+56+,True,Full-time,Male,DETE,21+,Teacher / TA,Dissatisfaction
+36-40,False,Full-time,Male,DETE,5-6,Teacher / TA,Career Move to Private Sector
+46-50,True,Full-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Maternal/Family"
+21-25,True,Full-time,Female,DETE,3-4,Administration,"Career Move to Public Sector, Dissatisfaction, Ill Health"
+31-35,False,Full-time,,DETE,3-4,Teacher / TA,Relocation
+56+,True,Part-time,Female,DETE,,Operations,"Dissatisfaction, Ill Health, Maternal/Family"
+36-40,False,Full-time,Male,DETE,11-20,Administration,Career Move to Private Sector
+56+,False,Part-time,Female,DETE,3-4,Operations,Ill Health
+46-50,True,Full-time,Female,DETE,5-6,Teacher / TA,"Dissatisfaction, Relocation"
+26-30,True,Full-time,Male,DETE,,Teacher / TA,Dissatisfaction
+51-55,False,Full-time,Female,DETE,5-6,Administration,Relocation
+41-45,True,Part-time,Female,DETE,11-20,Administration,Dissatisfaction
+21-25,False,Full-time,Female,DETE,1-2,Officer,"Career Move to Public Sector, Maternal/Family"
+41-45,True,Full-time,Female,DETE,3-4,Teacher / TA,"Career Move to Public Sector, Dissatisfaction"
+36-40,False,Full-time,Male,DETE,11-20,Teacher / TA,Maternal/Family
+41-45,False,Full-time,Male,DETE,1-2,Officer,Relocation
+56+,True,Part-time,Female,DETE,7-10,Teacher / TA,Dissatisfaction
+21-25,True,Full-time,Female,DETE,1-2,Teacher / TA,Dissatisfaction
+41-45,False,Part-time,Female,DETE,1-2,Operations,Career Move to Private Sector
+41-45,True,Full-time,Female,DETE,21+,Teacher / TA,Dissatisfaction
+46-50,True,Part-time,Female,DETE,11-20,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Maternal/Family"
+31-35,True,Full-time,Male,DETE,3-4,Officer,Dissatisfaction
+41-45,False,Full-time,Female,DETE,11-20,Administration,Career Move to Public Sector
+31-35,True,Full-time,Female,DETE,7-10,Administration,"Dissatisfaction, Maternal/Family"
+26-30,True,Part-time,Female,DETE,7-10,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Maternal/Family"
+36-40,False,Full-time,Female,DETE,11-20,Teacher / TA,Not Specified
+51-55,False,Part-time,Female,DETE,5-6,Administration,"Maternal/Family, Relocation"
+21-25,False,Temp (Part),Female,DETE,1-2,Teacher / TA,Study/Travel
+51-55,False,Part-time,Female,DETE,11-20,Teacher / TA,"Relocation, Study/Travel"
+31-35,True,Temp (Full),Male,DETE,1-2,Other,Dissatisfaction
+56+,True,Full-time,Male,DETE,21+,Other,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+31-35,True,Full-time,Female,DETE,7-10,Administration,Dissatisfaction
+56+,False,Part-time,Female,DETE,11-20,Operations,Not Specified
+36-40,True,Full-time,Female,DETE,7-10,Teacher / TA,"Dissatisfaction, Ill Health, Maternal/Family, Study/Travel"
+26-30,True,Full-time,Female,DETE,3-4,Administration,"Dissatisfaction, Interpersonal Conflict, Study/Travel"
+56+,False,Part-time,Female,DETE,11-20,Officer,Ill Health
+31-35,True,Part-time,Female,DETE,7-10,Teacher / TA,"Dissatisfaction, Relocation"
+31-35,True,Full-time,Female,DETE,7-10,Teacher / TA,Dissatisfaction
+56+,True,Part-time,Female,DETE,21+,Teacher / TA,Dissatisfaction
+51-55,False,Part-time,Female,DETE,11-20,Teacher / TA,Ill Health
+26-30,False,Part-time,Female,DETE,3-4,Teacher / TA,Relocation
+51-55,True,Part-time,Female,DETE,11-20,Teacher / TA,"Dissatisfaction, Ill Health"
+36-40,False,Part-time,Female,DETE,7-10,Teacher / TA,Career Move to Private Sector
+51-55,True,Part-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Maternal/Family"
+56+,False,Full-time,Female,DETE,7-10,Teacher / TA,Not Specified
+41-45,True,Part-time,Female,DETE,1-2,Operations,Dissatisfaction
+26-30,True,Part-time,Female,DETE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction, Study/Travel"
+41-45,True,Part-time,Male,DETE,7-10,Teacher / TA,"Dissatisfaction, Ill Health"
+36-40,False,Casual,Female,DETE,0-1,Teacher / TA,Study/Travel
+36-40,False,Part-time,Female,DETE,3-4,Other,Relocation
+31-35,False,Part-time,Female,DETE,3-4,Teacher / TA,Relocation
+51-55,False,Full-time,Female,DETE,21+,Officer,Ill Health
+51-55,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Private Sector
+56+,True,Full-time,Female,DETE,11-20,Administration,"Career Move to Private Sector, Dissatisfaction, Interpersonal Conflict"
+51-55,True,Full-time,Female,DETE,3-4,Teacher / TA,Dissatisfaction
+56+,False,Full-time,Female,DETE,21+,Administration,"Maternal/Family, Relocation"
+56+,False,Temp (Part),,DETE,21+,Teacher / TA,Relocation
+41-45,False,Full-time,Female,DETE,11-20,Teacher / TA,Not Specified
+46-50,False,Part-time,Female,DETE,,Teacher / TA,Maternal/Family
+46-50,True,Full-time,Male,DETE,11-20,Administration,"Career Move to Public Sector, Dissatisfaction, Study/Travel"
+21-25,False,Temp (Part),Male,DETE,1-2,Administration,Career Move to Private Sector
+41-45,False,Part-time,Female,DETE,1-2,Teacher / TA,Relocation
+26-30,True,Temp (Part),Female,DETE,0-1,Other,"Career Move to Private Sector, Dissatisfaction"
+21-25,False,Temp (Part),Female,DETE,0-1,Other,Study/Travel
+41-45,False,Full-time,Female,DETE,3-4,Teacher / TA,Career Move to Private Sector
+26-30,True,Full-time,Female,DETE,3-4,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+36-40,False,Casual,Female,DETE,1-2,,Relocation
+46-50,False,Full-time,,DETE,21+,Teacher / TA,Not Specified
+21-25,True,Full-time,Male,DETE,,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+46-50,True,Full-time,Female,DETE,7-10,Officer,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+56+,False,Full-time,Male,DETE,21+,Administration,Not Specified
+46-50,False,Part-time,Female,DETE,0-1,Teacher / TA,Career Move to Public Sector
+31-35,False,Full-time,Female,DETE,7-10,Teacher / TA,"Career Move to Private Sector, Relocation, Study/Travel"
+36-40,False,Full-time,Female,DETE,11-20,Teacher / TA,Career Move to Private Sector
+21-25,False,Part-time,Female,DETE,1-2,Teacher / TA,Relocation
+41-45,False,Full-time,Male,DETE,3-4,Teacher / TA,Relocation
+46-50,False,Casual,Female,DETE,,Teacher / TA,Maternal/Family
+26-30,False,Full-time,Male,DETE,5-6,Teacher / TA,Not Specified
+41-45,True,Part-time,Female,DETE,3-4,Operations,Dissatisfaction
+21-25,False,Casual,Male,DETE,5-6,Other,Career Move to Public Sector
+46-50,False,Part-time,Female,DETE,21+,Teacher / TA,Career Move to Private Sector
+51-55,True,Full-time,Female,DETE,0-1,Administration,"Dissatisfaction, Interpersonal Conflict"
+41-45,False,Full-time,Female,DETE,,Teacher / TA,"Relocation, Study/Travel"
+51-55,True,Full-time,Female,DETE,,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Part-time,Female,DETE,,Teacher / TA,Maternal/Family
+51-55,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+46-50,False,Full-time,Female,DETE,,Teacher / TA,Study/Travel
+56+,True,Full-time,Male,DETE,21+,Administration,Dissatisfaction
+51-55,True,Full-time,Female,DETE,21+,Teacher / TA,"Dissatisfaction, Relocation"
+46-50,True,Part-time,Female,DETE,11-20,Teacher / TA,Dissatisfaction
+56+,True,Full-time,Male,DETE,21+,Officer,Dissatisfaction
+56+,False,Full-time,Female,DETE,7-10,Operations,"Ill Health, Maternal/Family, Relocation"
+56+,False,Part-time,Male,DETE,11-20,Teacher / TA,Ill Health
+41-45,True,Full-time,Female,DETE,21+,Administration,Dissatisfaction
+41-45,False,Full-time,Female,DETE,5-6,Teacher / TA,"Maternal/Family, Relocation"
+56+,True,Part-time,Male,DETE,7-10,Operations,Dissatisfaction
+46-50,False,Part-time,Female,DETE,11-20,Teacher / TA,Ill Health
+31-35,True,Full-time,Female,DETE,7-10,Teacher / TA,"Dissatisfaction, Ill Health"
+41-45,False,Part-time,Female,DETE,1-2,Teacher / TA,Not Specified
+41-45,False,Part-time,Female,DETE,0-1,Teacher / TA,Career Move to Private Sector
+26-30,False,Full-time,Male,DETE,7-10,Teacher / TA,Career Move to Private Sector
+46-50,False,Full-time,Female,DETE,5-6,Teacher / TA,Ill Health
+56+,False,Part-time,Female,DETE,,Operations,Not Specified
+36-40,False,Full-time,Male,DETE,11-20,Administration,Career Move to Private Sector
+41-45,False,Part-time,Female,DETE,,Teacher / TA,Not Specified
+21-25,True,Full-time,Female,DETE,0-1,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+41-45,True,Full-time,Female,DETE,11-20,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+41-45,False,Full-time,Female,DETE,,Teacher / TA,Career Move to Private Sector
+51-55,False,Part-time,Female,DETE,21+,Other,Not Specified
+36-40,True,Full-time,Male,DETE,5-6,Teacher / TA,Dissatisfaction
+46-50,True,Part-time,Female,DETE,,Administration,Dissatisfaction
+36-40,False,Part-time,Female,DETE,,Operations,"Career Move to Public Sector, Relocation"
+36-40,False,Part-time,Female,DETE,,Administration,"Maternal/Family, Relocation"
+36-40,False,Part-time,Female,DETE,,Teacher / TA,Not Specified
+,False,Part-time,,DETE,,Teacher / TA,Relocation
+46-50,False,Full-time,Female,DETE,7-10,Teacher / TA,Career Move to Private Sector
+26-30,False,Part-time,Female,DETE,5-6,Teacher / TA,Career Move to Private Sector
+41-45,False,Part-time,Female,DETE,7-10,Operations,Relocation
+36-40,True,Full-time,Female,DETE,7-10,Teacher / TA,Dissatisfaction
+26-30,False,Part-time,Female,DETE,3-4,Teacher / TA,Maternal/Family
+21-25,False,Full-time,Male,DETE,1-2,Teacher / TA,Career Move to Private Sector
+21-25,False,Full-time,Female,DETE,1-2,Teacher / TA,Study/Travel
+31-35,True,Full-time,Female,DETE,5-6,Administration,"Dissatisfaction, Maternal/Family, Relocation"
+,False,,,DETE,,Teacher / TA,Not Specified
+,False,,,TAFE,,,Study/Travel
+41-45,False,Full-time,Male,TAFE,3-4,Teacher / TA,Career Move to Private Sector
+56+,False,Casual,Female,TAFE,7-10,Teacher / TA,Not Specified
+18-20,False,Temp (Part),Male,TAFE,3-4,Administration,"Career Move to Private Sector, Maternity/Family"
+46-50,False,Full-time,Male,TAFE,3-4,Teacher / TA,Not Specified
+36-40,False,Temp (Part),Female,TAFE,3-4,Other,Not Specified
+21-25,False,Full-time,Female,TAFE,1-2,Administration,Career Move to Public Sector
+41-45,False,Temp (Full),Female,TAFE,0-1,Administration,Career Move to Public Sector
+31-35,False,Temp (Part),Female,TAFE,11-20,Administration,Career Move to Private Sector
+31-35,True,Part-time,Female,TAFE,7-10,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+46-50,False,Part-time,Female,TAFE,11-20,Officer,Not Specified
+,False,,,TAFE,,,Not Specified
+31-35,True,Full-time,Female,TAFE,7-10,Administration,"Career Move to Public Sector, Dissatisfaction"
+,False,,,TAFE,,,Not Specified
+,False,,,TAFE,,,Not Specified
+,True,,,TAFE,,,Dissatisfaction
+,False,,,TAFE,,,Career Move to Private Sector
+26-30,False,Temp (Part),Male,TAFE,5-6,Administration,Career Move to Public Sector
+26-30,False,Casual,Female,TAFE,0-1,Administration,Not Specified
+31-35,False,Part-time,Female,TAFE,7-10,Teacher / TA,Career Move to Private Sector
+,True,,,TAFE,,,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Temp (Part),Male,TAFE,21+,Administration,Career Move to Public Sector
+31-35,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Private Sector
+46-50,False,Temp (Full),Female,TAFE,0-1,Officer,Career Move to Private Sector
+,False,,,TAFE,,,"Career Move to Private Sector, Career Move to Public Sector"
+,False,,,TAFE,,,Study/Travel
+,False,,,TAFE,,,Career Move to Public Sector
+26-30,True,Temp (Full),Female,TAFE,0-1,Administration,Dissatisfaction
+36-40,False,Full-time,Female,TAFE,11-20,Teacher / TA,Career Move to Self-employment
+31-35,False,Full-time,Male,TAFE,3-4,Teacher / TA,Career Move to Self-employment
+51-55,False,Full-time,Male,TAFE,11-20,Teacher / TA,"Career Move to Private Sector, Career Move to Public Sector"
+56+,False,Part-time,Female,TAFE,21+,Teacher / TA,Not Specified
+31-35,True,Full-time,Male,TAFE,0-1,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Full-time,Male,TAFE,3-4,Administration,Career Move to Private Sector
+,False,,,TAFE,,,Not Specified
+41-45,True,Full-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction"
+,False,,,TAFE,,,Career Move to Public Sector
+,True,,,TAFE,,,Dissatisfaction
+31-35,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Private Sector
+26-30,False,Temp (Part),Female,TAFE,3-4,Administration,Career Move to Private Sector
+56+,True,Full-time,Female,TAFE,3-4,Administration,Dissatisfaction
+51-55,False,Full-time,Male,TAFE,3-4,Operations,Not Specified
+46-50,True,Full-time,Male,TAFE,11-20,Operations,"Dissatisfaction, Interpersonal Conflict"
+21-25,True,Full-time,Female,TAFE,0-1,Administration,Dissatisfaction
+31-35,False,Temp (Part),Female,TAFE,1-2,Administration,Maternity/Family
+51-55,False,Full-time,Male,TAFE,3-4,Teacher / TA,Career Move to Private Sector
+36-40,True,Full-time,Female,TAFE,7-10,Officer,"Career Move to Public Sector, Dissatisfaction"
+51-55,False,Full-time,Female,TAFE,5-6,Administration,Not Specified
+18-20,True,Temp (Part),Female,TAFE,0-1,Administration,Dissatisfaction
+41-45,True,Casual,Male,TAFE,0-1,Teacher / TA,Dissatisfaction
+46-50,False,Full-time,Female,TAFE,7-10,Administration,Not Specified
+41-45,False,Temp (Full),Male,TAFE,5-6,Teacher / TA,Maternity/Family
+41-45,False,Full-time,Female,TAFE,5-6,Administration,Not Specified
+56+,False,Casual,Female,TAFE,3-4,Teacher / TA,Maternity/Family
+26-30,False,Full-time,Female,TAFE,7-10,Administration,Career Move to Public Sector
+41-45,True,Part-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction, Ill Health, Interpersonal Conflict"
+,False,,,TAFE,,,Career Move to Public Sector
+31-35,False,Casual,Female,TAFE,0-1,Administration,Career Move to Private Sector
+41-45,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Public Sector
+,False,,,TAFE,,,"Career Move to Private Sector, Ill Health"
+31-35,False,Full-time,Female,TAFE,11-20,Administration,Career Move to Public Sector
+56+,False,Full-time,Male,TAFE,11-20,Teacher / TA,Career Move to Private Sector
+,False,,,TAFE,,,Not Specified
+31-35,True,Temp (Full),Female,TAFE,0-1,Administration,"Career Move to Private Sector, Dissatisfaction"
+,True,,,TAFE,,,"Career Move to Public Sector, Dissatisfaction, Interpersonal Conflict"
+21-25,True,Casual,Male,TAFE,1-2,Administration,"Dissatisfaction, Study/Travel"
+46-50,True,Full-time,Female,TAFE,5-6,Officer,"Career Move to Public Sector, Dissatisfaction"
+,True,,,TAFE,,,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+,True,,,TAFE,,,"Dissatisfaction, Ill Health, Interpersonal Conflict"
+36-40,True,Temp (Part),Female,TAFE,0-1,Teacher / TA,"Dissatisfaction, Interpersonal Conflict, Maternity/Family"
+36-40,False,Full-time,Female,TAFE,11-20,Administration,Career Move to Public Sector
+41-45,False,Full-time,Male,TAFE,3-4,Officer,Career Move to Private Sector
+36-40,False,Casual,Male,TAFE,0-1,Administration,Career Move to Private Sector
+26-30,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Public Sector
+,True,,,TAFE,,,"Dissatisfaction, Study/Travel"
+26-30,True,Full-time,Female,TAFE,7-10,Administration,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Full-time,Male,TAFE,11-20,Teacher / TA,Not Specified
+41-45,False,Temp (Part),Male,TAFE,11-20,Operations,Study/Travel
+31-35,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+46-50,False,Full-time,Male,TAFE,3-4,Teacher / TA,"Career Move to Private Sector, Maternity/Family"
+26-30,False,Full-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Study/Travel"
+51-55,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,Dissatisfaction
+51-55,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,Dissatisfaction
+51-55,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,Dissatisfaction
+46-50,False,Casual,Female,TAFE,3-4,Administration,Career Move to Private Sector
+21-25,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Private Sector
+,False,,,TAFE,,,Maternity/Family
+41-45,False,Temp (Full),Female,TAFE,1-2,Operations,Ill Health
+51-55,False,Temp (Full),Female,TAFE,0-1,Operations,Ill Health
+36-40,False,Temp (Part),Female,TAFE,3-4,Administration,Study/Travel
+51-55,True,Temp (Part),Female,TAFE,3-4,Teacher / TA,Dissatisfaction
+,True,,,TAFE,,,Dissatisfaction
+46-50,False,Full-time,Male,TAFE,5-6,Teacher / TA,Career Move to Private Sector
+21-25,False,Full-time,Male,TAFE,3-4,Administration,Study/Travel
+,False,,,TAFE,,,Career Move to Private Sector
+31-35,False,Temp (Part),Male,TAFE,1-2,Administration,Career Move to Self-employment
+26-30,False,Temp (Part),Female,TAFE,0-1,Administration,"Career Move to Private Sector, Career Move to Self-employment, Study/Travel"
+51-55,False,Full-time,Female,TAFE,0-1,Teacher / TA,Not Specified
+36-40,False,Part-time,Female,TAFE,3-4,Teacher / TA,Career Move to Private Sector
+56+,False,Casual,Male,TAFE,0-1,Officer,Not Specified
+21-25,False,Temp (Full),Female,TAFE,0-1,Administration,Career Move to Private Sector
+18-20,False,Temp (Part),Male,TAFE,0-1,Administration,Career Move to Public Sector
+21-25,True,Casual,Female,TAFE,0-1,Officer,"Career Move to Public Sector, Dissatisfaction, Study/Travel"
+41-45,False,Temp (Full),Female,TAFE,0-1,Teacher / TA,Not Specified
+18-20,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+51-55,True,Part-time,Female,TAFE,21+,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+41-45,False,Casual,Female,TAFE,5-6,Officer,Career Move to Public Sector
+51-55,False,Temp (Full),Female,TAFE,0-1,Teacher / TA,Not Specified
+,True,,,TAFE,,,Dissatisfaction
+46-50,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Private Sector
+21-25,False,Full-time,Female,TAFE,3-4,Administration,Not Specified
+21-25,False,Part-time,Male,TAFE,1-2,Operations,Career Move to Public Sector
+21-25,False,Part-time,Female,TAFE,5-6,Administration,Not Specified
+31-35,False,Temp (Full),Female,TAFE,3-4,Administration,Not Specified
+21-25,True,Full-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction"
+41-45,True,Full-time,Male,TAFE,3-4,Operations,Dissatisfaction
+46-50,True,Temp (Part),Female,TAFE,0-1,Administration,"Dissatisfaction, Interpersonal Conflict"
+26-30,True,Temp (Part),Female,TAFE,1-2,Teacher / TA,Dissatisfaction
+46-50,True,Temp (Part),Male,TAFE,1-2,Administration,"Career Move to Private Sector, Dissatisfaction"
+46-50,False,Full-time,Male,TAFE,1-2,Teacher / TA,Career Move to Private Sector
+46-50,False,Casual,Female,TAFE,5-6,Administration,Maternity/Family
+41-45,False,Temp (Part),Female,TAFE,1-2,Administration,Not Specified
+36-40,False,Full-time,Female,TAFE,0-1,Teacher / TA,Not Specified
+36-40,False,Full-time,Male,TAFE,5-6,Administration,Career Move to Private Sector
+26-30,True,Temp (Part),Male,TAFE,0-1,Operations,Dissatisfaction
+41-45,False,Casual,Male,TAFE,1-2,Teacher / TA,Career Move to Self-employment
+41-45,False,Casual,Female,TAFE,3-4,Administration,Career Move to Public Sector
+21-25,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+41-45,True,Casual,Female,TAFE,0-1,Teacher / TA,Dissatisfaction
+,True,,,TAFE,,,"Dissatisfaction, Interpersonal Conflict"
+31-35,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Public Sector
+21-25,True,Temp (Part),Female,TAFE,1-2,Administration,"Career Move to Private Sector, Dissatisfaction, Study/Travel"
+41-45,False,Temp (Part),Male,TAFE,1-2,Officer,Maternity/Family
+36-40,False,Temp (Part),Male,TAFE,0-1,Administration,Career Move to Private Sector
+21-25,False,Casual,Female,TAFE,1-2,Administration,Not Specified
+26-30,True,Temp (Part),Female,TAFE,1-2,Administration,"Career Move to Private Sector, Dissatisfaction"
+41-45,True,Temp (Part),Female,TAFE,11-20,Teacher / TA,Dissatisfaction
+46-50,False,Full-time,Female,TAFE,5-6,Administration,Maternity/Family
+26-30,False,Full-time,Female,TAFE,3-4,Officer,Career Move to Private Sector
+51-55,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Private Sector
+31-35,False,Casual,Male,TAFE,1-2,Teacher / TA,Study/Travel
+18-20,False,Temp (Part),Female,TAFE,0-1,Administration,Study/Travel
+,True,,,TAFE,,,Dissatisfaction
+21-25,False,Full-time,Male,TAFE,3-4,Administration,Study/Travel
+51-55,False,Temp (Part),Female,TAFE,0-1,Administration,Study/Travel
+36-40,True,Temp (Part),Female,TAFE,1-2,Administration,"Dissatisfaction, Interpersonal Conflict, Study/Travel"
+41-45,False,Part-time,Female,TAFE,11-20,Officer,Career Move to Public Sector
+51-55,False,Temp (Part),Female,TAFE,0-1,Teacher / TA,Maternity/Family
+21-25,True,Full-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction"
+36-40,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+,False,,,TAFE,,,Not Specified
+41-45,False,Temp (Full),Female,TAFE,0-1,Administration,Career Move to Private Sector
+18-20,False,Temp (Part),Female,TAFE,1-2,Administration,Interpersonal Conflict
+21-25,False,Temp (Part),Female,TAFE,3-4,Administration,Career Move to Public Sector
+51-55,False,Temp (Full),Female,TAFE,1-2,Officer,Career Move to Public Sector
+,False,,,TAFE,,,Not Specified
+36-40,False,Part-time,Female,TAFE,5-6,Officer,Interpersonal Conflict
+36-40,False,Full-time,Male,TAFE,3-4,Officer,Not Specified
+41-45,False,Full-time,Female,TAFE,1-2,Operations,Career Move to Public Sector
+46-50,False,Full-time,Male,TAFE,11-20,Administration,Career Move to Private Sector
+26-30,False,Temp (Part),Male,TAFE,1-2,Administration,Career Move to Private Sector
+,False,,,TAFE,,,Not Specified
+56+,False,Part-time,Female,TAFE,21+,Officer,Career Move to Private Sector
+,False,,,TAFE,,,Ill Health
+56+,False,Full-time,Female,TAFE,5-6,Other,Maternity/Family
+,False,,,TAFE,,,Not Specified
+46-50,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,Dissatisfaction
+46-50,False,Temp (Part),Male,TAFE,0-1,Other,Not Specified
+51-55,True,Full-time,Male,TAFE,21+,Teacher / TA,"Dissatisfaction, Study/Travel"
+56+,False,Full-time,Male,TAFE,21+,Teacher / TA,Not Specified
+56+,False,Full-time,Female,TAFE,11-20,Teacher / TA,Study/Travel
+46-50,True,Full-time,Female,TAFE,5-6,Administration,"Dissatisfaction, Interpersonal Conflict"
+51-55,True,Full-time,Male,TAFE,21+,Teacher / TA,Dissatisfaction
+51-55,False,Full-time,Male,TAFE,11-20,Teacher / TA,"Maternity/Family, Study/Travel"
+56+,True,Part-time,Female,TAFE,21+,Administration,Dissatisfaction
+56+,False,Part-time,Female,TAFE,11-20,Officer,Not Specified
+56+,False,Full-time,Female,TAFE,11-20,Administration,Not Specified
+21-25,False,Full-time,Female,TAFE,0-1,Administration,"Career Move to Public Sector, Study/Travel"
+51-55,False,Casual,Female,TAFE,3-4,Teacher / TA,Not Specified
+31-35,False,Temp (Full),Female,TAFE,3-4,Administration,Not Specified
+51-55,True,Full-time,Male,TAFE,21+,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+26-30,False,Temp (Part),Female,TAFE,0-1,Officer,Not Specified
+46-50,False,Temp (Full),Female,TAFE,1-2,Teacher / TA,Career Move to Self-employment
+51-55,False,Casual,Female,TAFE,0-1,Teacher / TA,Not Specified
+,True,,,TAFE,,,"Dissatisfaction, Interpersonal Conflict"
+46-50,False,Temp (Full),Female,TAFE,3-4,Administration,Not Specified
+41-45,False,Temp (Part),Female,TAFE,1-2,Administration,Not Specified
+41-45,False,Temp (Part),Female,TAFE,3-4,Administration,Career Move to Private Sector
+41-45,False,Temp (Part),Female,TAFE,0-1,Administration,Ill Health
+41-45,True,Full-time,Male,TAFE,3-4,Teacher / TA,"Dissatisfaction, Maternity/Family"
+36-40,False,Temp (Part),Female,TAFE,5-6,Administration,"Career Move to Public Sector, Maternity/Family"
+56+,False,Full-time,Female,TAFE,11-20,Administration,Ill Health
+31-35,True,Full-time,Female,TAFE,1-2,Teacher / TA,Dissatisfaction
+31-35,False,Temp (Full),Female,TAFE,0-1,Administration,Career Move to Private Sector
+36-40,False,Full-time,Male,TAFE,7-10,Teacher / TA,Career Move to Private Sector
+41-45,True,Temp (Part),Male,TAFE,1-2,Teacher / TA,"Career Move to Public Sector, Dissatisfaction"
+26-30,False,Temp (Part),Female,TAFE,1-2,Administration,"Career Move to Private Sector, Career Move to Public Sector"
+56+,True,Full-time,Male,TAFE,11-20,Teacher / TA,Dissatisfaction
+51-55,False,Temp (Part),Female,TAFE,1-2,Teacher / TA,"Career Move to Public Sector, Interpersonal Conflict"
+51-55,False,Full-time,Male,TAFE,11-20,Officer,Career Move to Private Sector
+26-30,False,Full-time,Male,TAFE,7-10,Administration,Study/Travel
+31-35,False,Temp (Part),Female,TAFE,0-1,Officer,Career Move to Private Sector
+,True,,,TAFE,,,Dissatisfaction
+41-45,False,Full-time,Female,TAFE,11-20,Officer,Career Move to Public Sector
+31-35,False,Temp (Part),Female,TAFE,3-4,Administration,Not Specified
+26-30,True,Full-time,Female,TAFE,5-6,Administration,"Dissatisfaction, Study/Travel"
+51-55,False,Casual,Female,TAFE,1-2,Teacher / TA,Not Specified
+36-40,True,Full-time,Male,TAFE,11-20,Teacher / TA,"Career Move to Private Sector, Career Move to Self-employment, Dissatisfaction"
+,False,,,TAFE,,,Not Specified
+18-20,False,Full-time,Female,TAFE,3-4,Administration,Not Specified
+21-25,False,Temp (Part),Female,TAFE,1-2,Administration,"Maternity/Family, Study/Travel"
+26-30,False,Temp (Part),Female,TAFE,7-10,Administration,Not Specified
+,False,,,TAFE,,,Not Specified
+26-30,False,Full-time,Female,TAFE,0-1,Administration,Career Move to Private Sector
+36-40,True,Full-time,Male,TAFE,3-4,Teacher / TA,"Dissatisfaction, Interpersonal Conflict, Maternity/Family"
+31-35,False,Full-time,Male,TAFE,5-6,Teacher / TA,"Career Move to Private Sector, Interpersonal Conflict"
+56+,False,Full-time,Female,TAFE,1-2,Officer,Not Specified
+21-25,False,Temp (Part),Male,TAFE,1-2,Administration,Study/Travel
+41-45,True,Temp (Part),Male,TAFE,1-2,Administration,Dissatisfaction
+31-35,True,Full-time,Female,TAFE,1-2,Administration,"Career Move to Private Sector, Dissatisfaction"
+56+,False,Full-time,Male,TAFE,21+,Teacher / TA,Not Specified
+46-50,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Public Sector
+51-55,False,Temp (Part),Female,TAFE,0-1,Teacher / TA,Career Move to Public Sector
+36-40,True,Full-time,Female,TAFE,5-6,Administration,Dissatisfaction
+31-35,False,Casual,Female,TAFE,0-1,Administration,Career Move to Private Sector
+46-50,False,Temp (Full),Female,TAFE,0-1,Officer,Career Move to Private Sector
+46-50,False,Full-time,Male,TAFE,11-20,Teacher / TA,Career Move to Private Sector
+36-40,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+21-25,False,Temp (Part),Male,TAFE,1-2,Administration,Study/Travel
+36-40,True,Temp (Part),Female,TAFE,1-2,Administration,Dissatisfaction
+21-25,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Public Sector
+51-55,True,Part-time,Female,TAFE,5-6,Teacher / TA,"Dissatisfaction, Ill Health"
+,False,,,TAFE,,,Not Specified
+21-25,False,Full-time,Female,TAFE,1-2,Administration,Not Specified
+41-45,False,Temp (Part),Female,TAFE,11-20,Administration,Not Specified
+31-35,False,Temp (Part),Male,TAFE,1-2,Administration,Maternity/Family
+41-45,True,Full-time,Female,TAFE,5-6,Administration,"Career Move to Private Sector, Dissatisfaction"
+21-25,False,Casual,Female,TAFE,3-4,Administration,Not Specified
+21-25,False,Temp (Part),Female,TAFE,0-1,Administration,Career Move to Private Sector
+56+,True,Part-time,Male,TAFE,1-2,Teacher / TA,Dissatisfaction
+46-50,True,Temp (Part),Female,TAFE,1-2,Teacher / TA,"Dissatisfaction, Ill Health"
+26-30,False,Temp (Part),Male,TAFE,3-4,Administration,Not Specified
+46-50,True,Full-time,Female,TAFE,7-10,Administration,"Dissatisfaction, Interpersonal Conflict"
+,False,,,TAFE,,,Not Specified
+41-45,False,Temp (Part),Male,TAFE,0-1,Teacher / TA,Career Move to Private Sector
+,False,,,TAFE,,,Not Specified
+21-25,True,Full-time,Female,TAFE,1-2,Administration,"Dissatisfaction, Study/Travel"
+,False,,,TAFE,,,Not Specified
+26-30,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Private Sector
+36-40,False,Temp (Part),Male,TAFE,1-2,Administration,Career Move to Private Sector
+21-25,True,Temp (Part),Female,TAFE,1-2,Administration,"Career Move to Private Sector, Dissatisfaction"
+,False,,,TAFE,,,Ill Health
+21-25,False,Casual,Male,TAFE,1-2,Administration,Career Move to Private Sector
+31-35,False,Part-time,Female,TAFE,3-4,Teacher / TA,Career Move to Self-employment
+18-20,True,Temp (Part),Female,TAFE,3-4,Administration,"Dissatisfaction, Ill Health"
+51-55,False,Temp (Part),Male,TAFE,1-2,Administration,Career Move to Private Sector
+56+,False,Temp (Part),Male,TAFE,3-4,Administration,Career Move to Private Sector
+26-30,True,Full-time,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction, Study/Travel"
+56+,False,Temp (Full),Female,TAFE,3-4,Teacher / TA,Not Specified
+36-40,False,Temp (Full),Female,TAFE,11-20,Administration,Not Specified
+41-45,False,Temp (Full),Female,TAFE,1-2,Teacher / TA,Career Move to Private Sector
+21-25,False,Temp (Part),Male,TAFE,1-2,Administration,Career Move to Self-employment
+46-50,False,Temp (Part),Male,TAFE,0-1,Operations,Career Move to Private Sector
+56+,False,Part-time,Female,TAFE,5-6,Officer,Not Specified
+51-55,False,Full-time,Male,TAFE,7-10,Administration,Maternity/Family
+36-40,False,Full-time,Male,TAFE,7-10,Teacher / TA,Ill Health
+31-35,False,Temp (Part),Female,TAFE,0-1,Officer,Not Specified
+36-40,False,Full-time,Female,TAFE,7-10,Administration,Career Move to Private Sector
+36-40,False,Temp (Part),Female,TAFE,0-1,Administration,Interpersonal Conflict
+26-30,False,Temp (Full),Female,TAFE,1-2,Administration,Not Specified
+,False,,,TAFE,,,Not Specified
+31-35,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+46-50,True,Full-time,Female,TAFE,5-6,Teacher / TA,Dissatisfaction
+31-35,True,Temp (Part),Male,TAFE,3-4,Teacher / TA,Dissatisfaction
+56+,True,Temp (Part),Female,TAFE,3-4,Administration,"Career Move to Public Sector, Dissatisfaction"
+36-40,False,Full-time,Male,TAFE,7-10,Teacher / TA,Career Move to Self-employment
+46-50,False,Full-time,Male,TAFE,7-10,Teacher / TA,Career Move to Private Sector
+41-45,False,Temp (Part),Male,TAFE,1-2,Teacher / TA,Career Move to Private Sector
+21-25,True,Temp (Part),Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction"
+31-35,False,Temp (Full),Female,TAFE,1-2,Administration,Not Specified
+41-45,False,Temp (Part),Male,TAFE,1-2,Teacher / TA,Career Move to Private Sector
+51-55,False,Part-time,Male,TAFE,3-4,Teacher / TA,Not Specified
+51-55,True,Full-time,Female,TAFE,7-10,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+21-25,True,Casual,Female,TAFE,3-4,Administration,"Career Move to Private Sector, Dissatisfaction, Interpersonal Conflict"
+46-50,False,Temp (Full),Female,TAFE,1-2,Officer,Career Move to Self-employment
+,False,,,TAFE,,,Career Move to Public Sector
+36-40,False,Full-time,Male,TAFE,5-6,Teacher / TA,"Career Move to Private Sector, Career Move to Self-employment"
+46-50,False,Full-time,Female,TAFE,7-10,Administration,Not Specified
+,True,,,TAFE,,,"Career Move to Public Sector, Dissatisfaction"
+41-45,False,Casual,Female,TAFE,3-4,Administration,Ill Health
+41-45,True,Full-time,Male,TAFE,5-6,Teacher / TA,Dissatisfaction
+,False,,,TAFE,,,Career Move to Private Sector
+56+,False,Full-time,Female,TAFE,5-6,Teacher / TA,Career Move to Private Sector
+41-45,False,Part-time,Female,TAFE,3-4,Teacher / TA,Maternity/Family
+36-40,False,Temp (Part),Female,TAFE,5-6,Teacher / TA,Career Move to Public Sector
+31-35,False,Full-time,Male,TAFE,3-4,Teacher / TA,Not Specified
+46-50,False,Temp (Part),Female,TAFE,5-6,Teacher / TA,Career Move to Private Sector
+46-50,False,Temp (Part),Male,TAFE,3-4,Administration,Career Move to Private Sector
+21-25,False,Temp (Part),Female,TAFE,3-4,Administration,Career Move to Private Sector
+56+,True,Part-time,Female,TAFE,11-20,Teacher / TA,"Dissatisfaction, Ill Health, Study/Travel"
+51-55,False,Full-time,Male,TAFE,1-2,Teacher / TA,Not Specified
+26-30,False,Casual,Female,TAFE,0-1,Administration,Study/Travel
+18-20,False,Temp (Part),Male,TAFE,0-1,Administration,Career Move to Private Sector
+46-50,True,Full-time,Male,TAFE,7-10,Teacher / TA,"Career Move to Private Sector, Dissatisfaction"
+46-50,False,Temp (Part),Female,TAFE,5-6,Administration,Career Move to Public Sector
+51-55,False,Full-time,Male,TAFE,7-10,Teacher / TA,Career Move to Private Sector
+51-55,False,Temp (Part),Male,TAFE,3-4,Teacher / TA,Not Specified
+36-40,True,Temp (Part),Male,TAFE,1-2,Teacher / TA,"Career Move to Private Sector, Dissatisfaction, Interpersonal Conflict"
+26-30,False,Temp (Full),Female,TAFE,0-1,Teacher / TA,Career Move to Private Sector
+51-55,False,Temp (Part),Female,TAFE,0-1,Administration,Interpersonal Conflict
+46-50,False,Temp (Full),Female,TAFE,1-2,Administration,"Career Move to Private Sector, Study/Travel"
+41-45,False,Part-time,Female,TAFE,3-4,Administration,Not Specified
+46-50,True,Full-time,Female,TAFE,5-6,Administration,"Career Move to Private Sector, Dissatisfaction"
+,False,,,TAFE,,,Ill Health
+,False,,,TAFE,,,Not Specified
+26-30,False,Temp (Part),Female,TAFE,3-4,Administration,Not Specified
+,False,,,TAFE,,,Not Specified
+46-50,True,Temp (Part),Female,TAFE,0-1,Teacher / TA,Dissatisfaction
+51-55,True,Temp (Part),Male,TAFE,0-1,Teacher / TA,"Dissatisfaction, Interpersonal Conflict"
+41-45,False,Casual,Female,TAFE,1-2,Administration,Career Move to Public Sector
+36-40,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+51-55,False,Full-time,Male,TAFE,3-4,Administration,Career Move to Private Sector
+56+,False,Temp (Full),Female,TAFE,1-2,Operations,Ill Health
+26-30,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+26-30,False,Part-time,Female,TAFE,0-1,Administration,Career Move to Public Sector
+41-45,False,Temp (Part),Female,TAFE,0-1,Administration,Not Specified
+41-45,False,Casual,Male,TAFE,3-4,Administration,Career Move to Public Sector
+26-30,True,Temp (Part),Female,TAFE,1-2,Officer,Dissatisfaction
+41-45,False,Temp (Part),Female,TAFE,5-6,Administration,Career Move to Public Sector
+46-50,False,Part-time,Female,TAFE,5-6,Officer,Not Specified
+41-45,True,Full-time,Male,TAFE,0-1,Teacher / TA,"Dissatisfaction, Ill Health"
+,False,,,TAFE,,,Ill Health
+56+,False,Part-time,Female,TAFE,3-4,Operations,Ill Health
+26-30,False,Temp (Part),Female,TAFE,1-2,Administration,Career Move to Private Sector
+,False,,,TAFE,,,Career Move to Private Sector
+21-25,False,Temp (Part),Male,TAFE,5-6,Operations,Career Move to Private Sector
+51-55,False,Temp (Part),Male,TAFE,1-2,Teacher / TA,Career Move to Public Sector
+,False,,,TAFE,,,Career Move to Public Sector
+51-55,False,Full-time,Female,TAFE,5-6,Teacher / TA,Not Specified
+26-30,False,Casual,Female,TAFE,3-4,Administration,"Career Move to Self-employment, Study/Travel"
