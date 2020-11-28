@@ -1,2 +1,2 @@
 <h1 align="center">Dissatisfaction Levels Among Former School Employees</h1>
-<img src="Photos/Stressed Teacher.jpg">
+<img src="Photos/Stressed Teacher.jpg">h
